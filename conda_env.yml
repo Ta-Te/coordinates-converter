@@ -1,0 +1,10 @@
+name: coordinates-converter
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - python>=3.7,<3.8
+  - scipy
+prefix: /Users/rito/miniconda3/envs/coordinates-converter
